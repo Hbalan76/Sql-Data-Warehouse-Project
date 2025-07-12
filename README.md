@@ -82,6 +82,6 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-## About Me
+## 🌟About Me
 
 Hey there! I'm Himanshu — a Data Analyst passionate about uncovering insights and transforming data into strategy
