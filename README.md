@@ -26,7 +26,7 @@ This project involves:
 
 4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-
+---
 
 ## 🚀 Project Requirements
 
