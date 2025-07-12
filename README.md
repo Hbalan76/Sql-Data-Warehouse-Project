@@ -55,7 +55,7 @@ Develop SQL-based analytics to deliver detailed insights into:
   
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## 📂 Repository Structure
+ 📂 Repository Structure
 --
 
 data-warehouse-project/
